@@ -1,0 +1,3 @@
+/*
+fixed delay vs fix rate tradeoff and descision making
+*/

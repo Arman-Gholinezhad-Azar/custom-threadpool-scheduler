@@ -1,0 +1,3 @@
+/*
+Interface for cancel scheduled task
+*/
